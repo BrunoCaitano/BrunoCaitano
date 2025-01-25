@@ -34,9 +34,6 @@
 
 
 <div align= center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=395 src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCaitano&theme=transparent&border_color=white_border=true" alt="BrunoCaitano" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=373 src="https://github-readme-stats.vercel.app/api?username=BrunoCaitano&show_icons=true&theme=transparent&border_color=white_border=true" />
     </a>
