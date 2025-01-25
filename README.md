@@ -33,13 +33,6 @@
 </div><hr><br>
 
 
-<div align= center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=373 src="https://github-readme-stats.vercel.app/api?username=BrunoCaitano&show_icons=true&theme=transparent&border_color=white_border=true" />
-    </a>
-  </div>
-
-<div align=center>
 
 ### CONTATO
 
