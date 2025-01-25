@@ -33,7 +33,7 @@
 </div><hr><br>
 
 
-<div align=center>
+
 ### CONTATO
 <div align=center>
 
